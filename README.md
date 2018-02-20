@@ -1,4 +1,4 @@
-En testfil som är skapad mha utforskaren. 
+En testfil som är ändrad mha utforskaren. 
 
 En ny förändring.
 
